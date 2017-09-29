@@ -1,0 +1,23 @@
+{
+  "name": "f2c-arturgussi",
+  "version": "1.0.0",
+  "description": "Transforma firenheith para Celsius",
+  "main": "index.js",
+  "scripts": {
+    "test": "node text.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturgussi/f2c-arturgussi.git"
+  },
+  "keywords": [
+    "fahrenheit",
+    "celsius"
+  ],
+  "author": "Artur Gussi de Oliveira <arturgussi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arturgussi/f2c-arturgussi/issues"
+  },
+  "homepage": "https://github.com/arturgussi/f2c-arturgussi#readme"
+}
