@@ -4,7 +4,7 @@
   "description": "Transforma firenheith para Celsius",
   "main": "index.js",
   "scripts": {
-    "test": "node text.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
