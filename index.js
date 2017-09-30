@@ -1,5 +1,5 @@
 'use strict'
-//index.js 1.0.1
+//index.js
 
 module.exports = function(tempF){
 	if(typeof tempF === 'string'){
