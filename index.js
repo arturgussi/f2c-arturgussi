@@ -1,4 +1,4 @@
-//index.js
+//index.js 1.0.1
 
 module.exports = function(tempF){
 	if(typeof tempF === 'string'){
