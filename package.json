@@ -1,6 +1,6 @@
 {
   "name": "f2c-arturgussi",
-  "version": "1.0.1.2",
+  "version": "1.0.2",
   "description": "Transforma firenheith para Celsius",
   "main": "index.js",
   "scripts": {
